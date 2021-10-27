@@ -1,6 +1,4 @@
-import * as React from 'react';
 import * as Styled from './Table.styles';
-import { observer } from 'mobx-react';
 import { Column } from './Table'
 
 interface IDesktopListHeader<T> {

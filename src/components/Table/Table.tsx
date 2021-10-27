@@ -1,4 +1,5 @@
 import * as React from 'react'
+
 import * as Styled from './Table.styles'
 import { TableBody } from './TableBody'
 import TableHeader from './TableHeader'
